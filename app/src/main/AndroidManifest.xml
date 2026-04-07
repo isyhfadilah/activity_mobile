@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SampleActivity">
         <activity
+            android:name=".LinearLayout"
+            android:exported="false" />
+        <activity
+            android:name=".LatihanFrameLayout"
+            android:exported="false" />
+        <activity
             android:name=".KasusFrameLayout"
             android:exported="false" />
         <activity
